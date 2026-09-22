@@ -1,0 +1,5 @@
+# local service data (WAL + snapshots)
+/data/
+*.log
+# binaries
+/vrs
